@@ -4,6 +4,10 @@
   "description": "A react watermarking component",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qingyi-x/react-watermark-tool.git"
+  },
   "files": [
     "dist"
   ],
